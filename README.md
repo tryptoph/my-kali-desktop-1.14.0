@@ -16,3 +16,9 @@ https://localhost:6901
 
 it is more secure to use https (for encryption data);
 even though it won't be trusted by the browser since it is self signed ssl certificate.
+
+## Credentials
+user:
+  kasm_user
+password:
+  password
